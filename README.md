@@ -1,6 +1,6 @@
 ## Personal site
 
-https://natashapetrus.com/
+https://anishs.xyz/
 
 #### :fire: Generated with:
 * [Gulp](https://gulpjs.com/)
