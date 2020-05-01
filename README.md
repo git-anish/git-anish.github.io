@@ -19,8 +19,6 @@ https://anishs.xyz/
 * [Font Squirrel](https://www.fontsquirrel.com/) (font cross-browser compatibility)
 
 #### :heart: Quick links:
-* [Facebook](http://fb.natashapetrus.com)
-* [Instagram](http://ig.natashapetrus.com)
-* [LinkedIn](http://linkedin.natashapetrus.com)
-* [GitHub](http://github.natashapetrus.com)
-* [E-mail](mailto:hello@natashapetrus.com)
+* [LinkedIn](http://linkedin.anishs.xyz)
+* [GitHub](http://github.anishs.xyz)
+* [E-mail](mailto:hello@anishs.xyz)
