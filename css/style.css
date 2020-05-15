@@ -536,6 +536,10 @@ ol {
 	background-size: cover;
 }
 
+.resume-section {
+padding-bottom: 40px;
+}
+
 .resume-list {
 	list-style: none;
 	margin-left: 60px;
