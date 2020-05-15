@@ -483,6 +483,53 @@ ol {
 	background: #cbcbcb;
 }
 
+.social1-section .social-links {
+	position: relative;
+	float: right;
+	z-index: 5;
+	top: 10%;
+}
+
+.social1-section .social-links a {
+	color: #484848;
+	font-size: 36px;
+	margin-right: 40px;
+}
+
+.social1-section {
+	padding: 80px 0;
+}
+
+.social1-section .social-link-warp {
+	position: relative;
+}
+
+.social1-section .social-link-warp h2 {
+	display: inline-block;
+	font-weight: 600;
+	position: relative;
+	z-index: 5;
+	float: left;
+}
+
+.social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 42%;
+	height: 2px;
+	left: 40%;
+	top: 2%;
+	margin-top: 25px;
+	background: #f9f9f9;
+}
+
+.social-link-warp .social-links a {
+	position: relative;
+	bottom: 111px;
+}
+
+
+
 /*---------------------
 	Resume section
 ----------------------*/
@@ -1225,6 +1272,18 @@ ol {
 		position: relative;
 		background: #009fff;
 	}
+
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 12%;
+	height: 2px;
+	left: 62%;
+	top: 2%;
+	margin-top: 28px;
+	background: #f9f9f9;
+	}
+
 }
 
 @media only screen and (max-width: 1366px) and (min-width: 1200px) {
@@ -1278,6 +1337,16 @@ ol {
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 12%;
+	height: 2px;
+	left: 62%;
+	top: 2%;
+	margin-top: 28px;
+	background: #f9f9f9;
+	}
 }
 
 /* Tablet :768px. */
@@ -1298,6 +1367,7 @@ ol {
 	.social-link-warp:after {
 		display: none;
 	}
+
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
