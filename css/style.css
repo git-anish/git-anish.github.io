@@ -1312,6 +1312,16 @@ padding-bottom: 135px;
 	.home-three-style .main-right-area {
 		padding-left: 100px;
 	}
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 31%;
+	height: 2px;
+	left: 49%;
+	top: 2%;
+	margin-top: 28px;
+	background: #f9f9f9;
+	}
 }
 
 /* Medium screen : 992px. */
@@ -1341,9 +1351,9 @@ padding-bottom: 135px;
 	.home-four-style .social1-section .social-link-warp:after {
 	position: absolute;
 	content: '';
-	width: 12%;
+	width: 2%;
 	height: 2px;
-	left: 62%;
+	left: 72%;
 	top: 2%;
 	margin-top: 28px;
 	background: #f9f9f9;
@@ -1400,6 +1410,13 @@ padding-bottom: 135px;
 	}
 	.hero-info ul li span {
 		display: block;
+	}
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 80%;
+	height: 2px;
+	background: #f9f9f9;
 	}
 }
 
@@ -1471,6 +1488,16 @@ padding-bottom: 135px;
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
 	}
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 27%;
+	height: 2px;
+	left: 53%;
+	top: 2%;
+	margin-top: 28px;
+	background: #f9f9f9;
+	}
 }
 
 /* small Mobile :320px. */
@@ -1504,5 +1531,15 @@ padding-bottom: 135px;
 	}
 	.home-four-style .main-left-area {
 		padding-top: 250px;
+	}
+	.home-four-style .social1-section .social-link-warp:after {
+	position: absolute;
+	content: '';
+	width: 22%;
+	height: 2px;
+	left: 57%;
+	top: 2%;
+	margin-top: 28px;
+	background: #f9f9f9;
 	}
 }
