@@ -482,9 +482,7 @@ ol {
 
 .social1-section .social-links {
 	position: relative;
-	float: right;
-	z-index: 5;
-	top: 10%;
+	float: left;
 }
 
 .social1-section .social-links a {
@@ -497,19 +495,19 @@ ol {
 	padding: 80px 0;
 }
 
-.social1-section .social-link-warp {
+/*.social1-section .social-link-warp {
 	position: relative;
-}
+}*/
 
-.social1-section .social-link-warp h2 {
+/*.social1-section .social-link-warp h2 {
 	display: inline-block;
 	font-weight: 600;
 	position: relative;
 	z-index: 5;
 	float: left;
-}
+}*/
 
-.social1-section .social-link-warp:after {
+/*.social1-section .social-link-warp:after {
 	position: absolute;
 	content: '';
 	width: 42%;
@@ -519,7 +517,7 @@ ol {
 	margin-top: 25px;
 	background: #f9f9f9;
 }
-
+*/
 .social-link-warp .social-links a {
 	position: relative;
 	bottom: 111px;
