@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/anishs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anishsharma.me
+  * I am anishs (https://keybase.io/anishs) on keybase.
+  * I have a public key with fingerprint D1F4 F298 6543 4778 587A  88CA BA03 2761 F58B 8593
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017fb91b4b4ab87d1d287881ed717665a13f859bd6f791a92702638778983650810a",
+      "fingerprint": "d1f4f29865434778587a88caba032761f58b8593",
+      "host": "keybase.io",
+      "key_id": "ba032761f58b8593",
+      "kid": "01017fb91b4b4ab87d1d287881ed717665a13f859bd6f791a92702638778983650810a",
+      "uid": "7bd20b9d2166f88020ed67339aa86d19",
+      "username": "anishs"
+    },
+    "service": {
+      "hostname": "anishsharma.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1595894795,
+  "expire_in": 157680000,
+  "prev": "343316171faf1fa8e88dc3a43aa4b494721ac136aa9fe1aca58d301af56b90d2",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1sFEUYvnqHcFeUFvRULAEWA9QcZWe/ZvakJSiWYIKNNSEXG3OZvZ1t1173
+rrvbawupaQi0xXKhx9FEq3xYG0m8gKVq9IAgbT2LrTQxsSQkjRr90aAIiFDTEoqz
+jfww8aeTTGbmfZ/nmed983Y94nb58s641+E7nfvSeWNXFVd4ZbRgN6PE1GYmuJup
+JfMHiarEssO1usoEGRawAGqKDBRBEbCCoApUDkGEAFEhgJIkYsBrSJQVVdKgDLDM
+QZaTeAQhkhEviSwCLGYCjKYb1cSMm7phU1kVaILGyUgSBV6gUBFBjFAEK5jlOSgB
+TUQKFeUpsSZmOQxqTsEWKdFjNEYf4Xl7/4H/n303zMtBReVYRVY5IEkaQizHElWC
+PC9jjCQVyA7QIqaB6whFY0O3aiymJcDQWEKPEKetTh3/ytdgsw6X0ECAiZsxOxaJ
+RWmuxrbjVtDh2s1xB9xIlPA/MmFFN1TaR8pIENPSYwYTBBQZsXVHF4iyiGQBymKA
+IU1x3SRh3UGIUEIsXc4/JEEleYHngQRCEGhYoxsRhNQIjwUeY9ouKsEBHAG8hLGs
+EXrFIlJ5FmBNlBSZVTnGqazeiDFBnvrE1VTT0qsNbDeYhGnx7c/7xOPK87lW+Fd7
+vrt9623ywram0K6O0Qezt+AhZ/BcPm/Bg4g+nj8n8mPRe6F2d3rSfDg581Qm6tmx
+4KfBDwLR6MlXGyo+vV3+VW1nfle9NrV1oTckjR47/WbH91V3D3r6ksL0xdY/z/Rf
+v5dq6R47dOTO46uWVKTLXmlqqlycHJqocqWunf9jzvNXKZzuqzRf7+l5zL1+Q+Kq
+f+OWG4t8i1fMhXf2frh89sU1p4dG0uv87q/X5oZD9y9Nl59dVbxj/LebUz09tyLD
+HSMnD7eqV8pOLDluF10pn/zyo5F3Sp490PtN1+/LikX3BfuL8/XX373bKqdPDW1Y
+WnjRKJp9LnXKuNY8eHT5bPW2toGOqQM/bGrPZVzJ/l+SXZ3bc9nusj0/jq3pLjze
+9l7BOF/aqGYWZr2D555/44mX6p+W9l8ovLzzZqp4AgbMUn9W2KOPlm18v9N/tO/b
+E0z+uaL7s6s3T3q8e4efCbevhL1bw79aH38+qikz+Zd9XjPTe+jntrUv76sIbXrr
+ycpLywbqGqey/bnPDnY35PpuTIupzMSjM1W7zCOvFW3eEkrsHcg2/w0=
+=TzPx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anishs
+
+==================================================================
