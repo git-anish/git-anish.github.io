@@ -210,3 +210,74 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/anishs
 
 ==================================================================
+
+==================================================================
+https://keybase.io/anishs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anishs.xyz
+  * I am anishs (https://keybase.io/anishs) on keybase.
+  * I have a public key with fingerprint D1F4 F298 6543 4778 587A  88CA BA03 2761 F58B 8593
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017fb91b4b4ab87d1d287881ed717665a13f859bd6f791a92702638778983650810a",
+      "fingerprint": "d1f4f29865434778587a88caba032761f58b8593",
+      "host": "keybase.io",
+      "key_id": "ba032761f58b8593",
+      "kid": "01017fb91b4b4ab87d1d287881ed717665a13f859bd6f791a92702638778983650810a",
+      "uid": "7bd20b9d2166f88020ed67339aa86d19",
+      "username": "anishs"
+    },
+    "service": {
+      "hostname": "anishs.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1595895197,
+  "expire_in": 157680000,
+  "prev": "8b79d5aac22e6fa3ecbfaad1ee932512e1b349ff1669144fef5c001fa72a11d5",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUl1MFFcY3QXaxm0UECnpD5WONrYJbufO7My9s22xFCJi1VawUPBhvbNzZxmF
+mXV3oPsjDxKa+Jfqtkbsn02lVtRAWmhKbdPU1hWIbiwQtCSGAIVqkQixArZNiL1D
+6kOTPva+3Nxzzznf+b58hxYn2xz2b5JX4dn9b71rvzQh2zzLa45HGdlQwow7yuwg
+CxepVkjQ9OzQFMbNsIAFUJUlILtkF5YRVIDCIYgQIAoEUBQFDHgVCZKsiCqUAJY4
+yHIijyBEEuJFgUWAxUwuo2q6jwT8AU03qa0CVJfKSUgUXLyLUgUEMUJeLGOW56AI
+VAHJ1JSnwiojaCloOBkHiVMzKEYfnoV4/8H/n3PXLthBWeFYWVI4IIoqQizHEkWE
+PC9hjEQFSBYxSAI6riGUjXUtWBVk6nMZitVpXmKN1erjX//OUDhCdf6AYRpeo5ri
+VabpD7otnRn2W8Q3iez5x8Ija7pCZ0gVdSQQ1AydcQPK9Jqa5QkESUCSACSYy5CQ
+XwsQj2YxBCgilh6rDqmjlkiGkiJg7OW4LURUMU+8soqxAgiReE4AHAEy75JUlXYq
+AZdLJargZVmgYshhABSBsbraqRuMW6A5sY96BjWfjs3aAGHqHXvtHSk2u8OW/chT
+KX0zvx8lBUWhNyJ7Lt7fuweSrKWzORal3Ud6Zx++52tiw/3Rtk+bYq1JOZkvD3aX
+emNpDwnLRup81wfQiZ13Ks6u37hhd/n8Z4WbMmzJ0b24bKRs1fNmInHw53BGT8fG
+C2/Puou3dS8rOhCBHZXfnSuJT97ObeedY1tbr712Osde+lPl1I25tPySqaKe9qzp
+Ow01Sk5Dftf+senhFc3zxprpr0/xMWZXPPHDUN/oX86rk77iUKRk5ANb+dxAZ+l8
+6PytI9EtLy6tJ5GkXdnXhg9FfS+krpk8s+6LU83a581nM7NjS36sbXz28szixExW
+RWJDw+7hSvfU+vc+Gup9vP3m+eSWc088uTzv4+13Cx3GTcb54dijvxSv/KS0Kyvv
+wGjXypRXf7u1+ljW6nzPK5uZL6/cKxh/6WDF5Z7uk0pby3D6V/PwxPXG8l+3l909
++c7aB+HWbXu+bZtbBPbNjg+2V+bpMbmpdyLeuvT0vtel+Bmx5cb3gYG+x56+Uj2X
+3Zm65GpG+oX0oaOjE/1/TG62d45dPFz83Hjqn7cLui41xgvfH3ymvyfz2N8=
+=Tr06
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anishs
+
+==================================================================
+
