@@ -12,10 +12,10 @@
 
 $(window).on('load', function() { 
 	/*------------------
-		Preloder
+		Preloader
 	--------------------*/
 	$(".loader").fadeOut(); 
-	$("#preloder").delay(400).fadeOut("slow");
+	$("#preloader").delay(250).fadeOut(250);
 
 });
 
@@ -37,8 +37,6 @@ $(window).on('load', function() {
 		items: 1,
 		autoplay: true
 	});
-
-
 
 	$('.progress-bar-style').each(function() {
 		var progress = $(this).data("progress");
@@ -75,8 +73,6 @@ $(window).on('load', function() {
 		mainClass: 'img-popup-warp',
 		removalDelay: 500,
 	});
-
-
 
 
 if($().circleProgress){
